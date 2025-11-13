@@ -79,7 +79,7 @@ Copy and save your:
 ### Create an S3 Bucket
  Open **[Amazon S3 Console](https://s3.console.aws.amazon.com/s3/home)** and create bucket
 
-##License
+License
 This project is open source and available under the MIT License.
 
 
