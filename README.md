@@ -2,8 +2,6 @@
 
 A full-stack application that allows users to upload files directly to **Amazon S3** using **pre-signed URLs** for secure and efficient file transfer.
 
----
-
 ##  Features
 
 - Generate **AWS S3 pre-signed URLs** using Node.js & Express.
@@ -12,7 +10,6 @@ A full-stack application that allows users to upload files directly to **Amazon 
 - Automatic metadata saving to MongoDB (optional).
 - Works with large files using `axios` progress tracking.
 
----
 
 ## Tech Stack
 
@@ -27,10 +24,6 @@ A full-stack application that allows users to upload files directly to **Amazon 
 - **React.js (Vite)**
 - **Axios** for HTTP requests
 - Simple file upload UI
-
----
-
----
 
 ##  Setup Instructions
 
@@ -86,7 +79,7 @@ Copy and save your:
 ### Create an S3 Bucket
  Open **[Amazon S3 Console](https://s3.console.aws.amazon.com/s3/home)** and create bucket
 
-License
+##License
 This project is open source and available under the MIT License.
 
 
