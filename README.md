@@ -1,6 +1,6 @@
 # AWS S3 File Uploader (Node.js + React)
 
-A full-stack application that allows users to upload files directly to **Amazon S3** using **pre-signed URLs** for secure and efficient file transfer.
+A full-stack integration that allows users to upload files directly to **Amazon S3** using **pre-signed URLs** for secure and efficient file transfer.
 
 **Features**
 
